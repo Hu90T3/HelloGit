@@ -16,3 +16,5 @@ while True:
         print("Demasiado bajo 😅")
     else:
         print("Demasiado alto 😅")
+
+print("Ahora accede al pin ese y ve los cambios")
