@@ -1,47 +1,94 @@
-# HelloGit
-Hello Git 🚀
+<!-- ========================= -->
+<!-- README: Hello Git        -->
+<!-- ========================= -->
 
-Autor: Hugo Eduardo Tello Estrada
-Descripción: Repositorio de ejemplo creado para prácticas, pruebas y demostraciones de control de versiones con Git.
-Lenguaje principal: Python 🐍
+# 🚀 Hello Git
 
-🧠 Acerca del proyecto
+![Status: Activo](https://img.shields.io/badge/Status-Activo-brightgreen) ![Lenguaje: Python](https://img.shields.io/badge/Lenguage-Python-3776AB?logo=python&logoColor=white) ![VCS: Git](https://img.shields.io/badge/VCS-Git-F05032?logo=git&logoColor=white)
 
-Este repositorio fue creado con el propósito de explorar y dominar los fundamentos del control de versiones utilizando Git y GitHub.
-Aquí encontrarás ejemplos simples pero poderosos, porque incluso un humilde print("Hola, mundo") puede ser el primer paso hacia la grandeza en el desarrollo de software.
+**Autor:** Hugo Eduardo Tello Estrada  
+**Descripción:** Repositorio de ejemplo para prácticas, pruebas y demostraciones de control de versiones con Git.  
+**Lenguaje principal:** Python 🐍
 
-⚙️ Tecnologías utilizadas
+---
 
-Git – para el control de versiones.
+<!-- Banner responsivo (opcional) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Banner: Hello Git — práctica con Git y Python" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
-Python – para los scripts de ejemplo.
+---
 
-GitHub – como plataforma de colaboración y respaldo del código.
+## 📌 Tabla de contenidos
+- [Acerca del proyecto](#-acerca-del-proyecto)
+- [Tecnologías](#-tecnologías)
+- [Objetivos](#-objetivos-del-proyecto)
+- [Uso rápido](#-uso-rápido)
+- [Estructura del repositorio](#-estructura-del-repositorio)
+- [Sobre el autor](#-sobre-el-autor)
+- [Estado](#-estado-del-proyecto)
 
-💡 Objetivo
+---
 
-Este proyecto tiene como finalidad servir como un entorno de práctica para mejorar la comprensión de:
+## 🧠 Acerca del proyecto
 
-Flujo de trabajo con ramas y commits.
+Este repositorio está pensado como un **laboratorio personal** para aprender y practicar los fundamentos del control de versiones con **Git** y **GitHub**. Contiene ejemplos, pequeños scripts en Python y ejercicios típicos (creación de ramas, merges, resolución de conflictos, etc.).
 
-Resolución de conflictos.
+Un ejemplo sencillo que puedes encontrar aquí:
 
-Buenas prácticas en documentación y versionado.
+```python
+# hellogit3.py
+print("Hola, mundo")
+⚙️ Tecnologías
+Git — control de versiones
 
-🧔 Sobre el autor
+GitHub — plataforma de colaboración
 
-Hugo Eduardo Tello Estrada
-Desarrollador apasionado por la tecnología, la lógica y el poder del código limpio.
-Cada commit es una declaración de propósito, y cada print() un recordatorio de que incluso los dioses del código empezaron por algo simple.
+Python — ejemplos y scripts
 
-“Primero fue el ‘Hola, mundo’, luego el universo digital.” 🌌
+🎯 Objetivos del proyecto
+Practicar el flujo de trabajo con ramas (branch) y commits.
+
+Entender y resolver conflictos de merge.
+
+Adoptar buenas prácticas en documentación y versionado.
+
+Mantener un repositorio limpio y replicable para demos.
+
+🧾 Uso rápido
+Clona el repositorio:
+git clone https://github.com/tu-usuario/Hello-Git.git
+cd Hello-Git
+
+Crea una rama de trabajo:
+git checkout -b feature/mi-prueba
+Haz cambios, commitea y sube:
+git add .
+git commit -m "Mi primer cambio de práctica"
+git push origin feature/mi-prueba
 
 📂 Estructura del repositorio
-📁 Hello-Git/
- ┣ 📜 hellogit3.py
- ┣ 📜 README.md
- ┗ ... otros archivos de ejemplo
+Hello-Git/
+├─ hellogit3.py
+├─ README.md
+└─ (otros archivos de ejemplo)
+<details> <summary>Mi top tecnologías (clic para ver)</summary>
+Rank	Tecnologías
+1	Python
+2	Git
+3	GitHub
 
+</details>
+🧔 Sobre el autor
+Hugo Eduardo Tello Estrada — desarrollador en formación y entusiasta del código limpio, la lógica y la mejora continua. Cada commit es un pequeño paso hacia proyectos mejores.
+
+"Primero fue el ‘Hola, mundo’, luego el universo digital." 🌌
+
+<!-- TODO: Añadir enlaces a proyectos y redes cuando estén disponibles -->
 🏆 Estado del proyecto
+✅ Activo — en constante aprendizaje y mejora.
 
-✅ Activo — En constante aprendizaje y mejora.
+📚 Ideal para iniciar y practicar flujos de Git.
+
